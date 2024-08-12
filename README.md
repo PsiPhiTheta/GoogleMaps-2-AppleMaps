@@ -1,5 +1,5 @@
 # GoogleMaps-2-AppleMaps
-This Shortcut script automatically extracts in bulk the Saved Places .json data from Google data export and adds the places (with a prompt) in Apple Maps
+This Shortcut script automatically extracts in bulk the Saved Places .json data from Google data export and adds the places (with a prompt) in Apple Maps. Primarily intended for macOS rather than iOS.
 
 Intended uses:
 - You have a Google account with saved (or "starred") places on Google Maps that you'd like to export/import into Apple Maps
